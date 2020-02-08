@@ -1,1 +1,14 @@
+OngoBoost Insight Project
+=========================
 
+As a part of Insight Datascience fellowship, I consulted for a fitness app manufacturing company. There were several facets in 
+the project.
+
+In Part A., I have atfirst preprocessed synced historic data of customers who joined the company platform, then cluster them into
+separate groups. Next, I studied the behavioral patterns of the customers and how that relate to a cluster.
+
+In Part B, I preprocessed the in-app behavior of the customers and then integrated that with meaningful features coming from 
+AppleHealthKitData, to predict subscription. This dataset was highly imbalanced for subscription.
+
+In Part C., I used a different dataset with a more balanced subscription, integrated data from Part A and Part B, in order to 
+predict subscription.
