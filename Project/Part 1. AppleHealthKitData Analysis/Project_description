@@ -1,5 +1,7 @@
 Part 1. AppleHealthKitData Analysis
 ===================================
 
-This part mostly deals with customer who syncs their historic data from 3rd party integration (most AppleHealthKitData) with the client's fitness app.
-There were 23M+ (>10GB)observations. These data required extensive cleaning, data wrangling, feature engineering before using for clustering. After that I analyzed what features (behavioral patterns) segragate customers into different clusters. 
+This part mostly deals with customer who syncs their historic data from 3rd party integration (most AppleHealthKitData)
+with the client's fitness app. There were 23M+ (>10GB)observations. These data required extensive cleaning, data wrangling, 
+feature engineering before using for clustering. After that I analyzed what features (behavioral patterns) segragate customers 
+into different clusters. 
