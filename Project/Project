@@ -13,8 +13,17 @@ feature engineering before using for clustering. After that I analyzed what feat
 into different clusters.
 
 
-In Part B, I preprocessed the in-app behavior of the customers and then integrated that with meaningful features coming from 
+
+
+Part B. The Run Experience App Utilization (Data 1) Analysis
+============================================================
+
+This part mostly deals with preprocessing the in-app behavior of the customers and then integrated that with meaningful features coming from 
 AppleHealthKitData, to predict subscription. This dataset was highly imbalanced for subscription.
 
-In Part C., I used a different dataset with a more balanced subscription, integrated data from Part A and Part B, in order to 
+
+
+Part C. The Run Experience App Utilization (Data 2) Analysis
+============================================================
+Here, I used a different dataset with a more balanced subscription, integrated data from Part A, in order to 
 predict subscription.
