@@ -4,7 +4,7 @@ As a part of the Insight Data Science fellowship, I consulted for a fitness app 
 
 When a customer joins the app, they can sync their historic data from 3rd party integration such as AppleHealthKit or FitBit. By segmenting those users who sync their historic data, the fitness app manufacturer will have the insights to send personalized fitness recommendations from the start of the customer onboarding experience (prior to collecting a single observation within the fitness platform itself). Building on these segments, the fitness app manufacturer isolates the meaningful data from the user’s historic fitness behavior and couples it with their behavior in the fitness platform to predict conversion rate to the paid subscription model.
 
-**Overall steps in the project:**
+### Overall steps in the project:
 1. Third-party integration and in-app behavior analysis, which required a massive amount of data cleaning, data wrangling, data aggregation based on each individual, and feature engineering. Packages used: python, pandas, postgreSQL, pySpark, and AWS.
 
 2. Customer segmentation of those who synced their historic data to the fitness app. Packages used: Scikit-learn.
@@ -17,12 +17,9 @@ For further information on the data analysis pipeline that I built, please check
 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRZfuQaQSz6L5F23l_E6SmhuNUJLGYOUdL4QYtwPplWfnhijze0ZteVXZkx8jWhD2BxJGn6WznXY_co/embed?start=false&loop=false&delayms=3000)
 
 
-
-
-
-The outcome of the project:
+### The outcome of the project:
  
-An interactive web app [link] was built using Streamlit and Heroku to predict the subscription conversion probability for the new customers. Corporate decision-makers can use the provided slider bar in the web app to select a range of customers that have the highest probability to subscribe. Several benefits of identifying and isolating customers on the fence:
+An interactive web app [link](https://ongoboost.herokuapp.com) was built using Streamlit and Heroku to predict the subscription conversion probability for the new customers. Corporate decision-makers can use the provided slider bar in the web app to select a range of customers that have the highest probability to subscribe. Several benefits of identifying and isolating customers on the fence:
 
 1. This information will facilitate targeted marketing, such as offering discounts only to customers that have the highest probability to subscribe and not losing money by providing discounts randomly to a customer who might have a way low likelihood to subscribe. 
 
