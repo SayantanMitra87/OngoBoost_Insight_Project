@@ -4,7 +4,7 @@ As a part of the Insight Data Science fellowship, I consulted for a fitness app 
 
 When a customer joins the app, they can sync their historic data from 3rd party integration such as AppleHealthKit or FitBit. By segmenting those users who sync their historic data, the fitness app manufacturer will have the insights to send personalized fitness recommendations from the start of the customer onboarding experience (prior to collecting a single observation within the fitness platform itself). Building on these segments, the fitness app manufacturer isolates the meaningful data from the user’s historic fitness behavior and couples it with their behavior in the fitness platform to predict conversion rate to the paid subscription model.
 
-Overall steps in the project:
+**Overall steps in the project:**
 1. Third-party integration and in-app behavior analysis, which required a massive amount of data cleaning, data wrangling, data aggregation based on each individual, and feature engineering. Packages used: python, pandas, postgreSQL, pySpark, and AWS.
 
 2. Customer segmentation of those who synced their historic data to the fitness app. Packages used: Scikit-learn.
