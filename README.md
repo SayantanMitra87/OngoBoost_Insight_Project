@@ -13,7 +13,7 @@ Overall steps in the project:
 
 4. Coupling previous findings with the user’s in-app behavior to predict subscription rate. Subscription data was highly imbalanced (Unpaid customers: 93, Paid subscribers: 7), so SMOTE and ADASYN were used to balance the training data. Additional subscriber data was added to improve the gradient-boosted trees to a precision of 78 and recall of 81.
 
-For further information on the data analysis pipeline that I built, please check out these slides [link].
+For further information on the data analysis pipeline that I built, please check out these slides [<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZfuQaQSz6L5F23l_E6SmhuNUJLGYOUdL4QYtwPplWfnhijze0ZteVXZkx8jWhD2BxJGn6WznXY_co/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="629" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>].
 
 The outcome of the project:
  
