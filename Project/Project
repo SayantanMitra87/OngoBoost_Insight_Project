@@ -4,8 +4,14 @@ OngoBoost Insight Project
 As a part of Insight Datascience fellowship, I consulted for a fitness app manufacturing company. There were several facets in 
 the project.
 
-In Part A., I have atfirst preprocessed synced historic data of customers who joined the company platform, then cluster them into
-separate groups. Next, I studied the behavioral patterns of the customers and how that relate to a cluster.
+
+Part A. AppleHealthKitData Analysis
+===================================
+This part mostly deals with customer who syncs their historic data from 3rd party integration (mostly AppleHealthKitData)
+to the client's fitness app. There were 23M+ (>10GB)observations. These data required extensive cleaning, data wrangling, 
+feature engineering before using for clustering. After that I analyzed what features (behavioral patterns) segragate customers 
+into different clusters.
+
 
 In Part B, I preprocessed the in-app behavior of the customers and then integrated that with meaningful features coming from 
 AppleHealthKitData, to predict subscription. This dataset was highly imbalanced for subscription.
