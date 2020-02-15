@@ -31,6 +31,9 @@ An interactive web app [link](https://ongoboost.herokuapp.com) was built using S
 3. Lift is a metric that the subscription industry aims to increase. Lift generally suggests how much more subscribers a company can get by targeting customers with the highest likelihood to subscribe.
 By selecting the top 10% of the customers with the highest likelihood to subscribe, Ongo can achieve a 5x lift, and targeting the top 20% will generate a 3.21x lift. 
 
+
+Disclaimer: This is a real world data problem. Because of data security, I am only sharing parts of the code, and I have changed a few feature names and randomized some feature values. But overall data analysis and cognitive thinking process behind how to handle a messy data, finding hidden patterns in the data, how to understand customers better is exactly the same.
+
 I hope you enjoy the project as much as I enjoyed building it!
 
 ![Alt Text](https://github.com/SayantanMitra87/OngoBoost_Insight_Project/blob/master/ongoboost_0.gif)
